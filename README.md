@@ -88,3 +88,9 @@ Qualquer sugestão, crie uma Issue dizendo o que deveria mudar, acrescentar (e p
 
 | [<img src="https://avatars0.githubusercontent.com/u/11067705?v=3&s=115"><br><sub>@gkal19</sub><br><sub>16 anos</sub>](https://github.com/gkal19) |
 | :---: |
+
+> Qualquer dúvida sobre o curso, sugestão, reclamação (ou algo do tipo). Só me chamar.
+
+Telegram: @ogabriel
+[Facebook](https://www.facebook.com/gkal19)
+[gabrielsilva1956@gmail.com](mailto:gabrielsilva1956@gmail.com)
