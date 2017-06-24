@@ -4,13 +4,13 @@
 
 Você provavelmente já ouviu falar sobre a linguagem Python.
 
-## O que é
+## O que é?
 
 > O que é o Python? (Resumidamente)
 
 Python é um linguagem dinâmica, interpretada, robusta, multiplataforma e multi-paradigma (orientação à objetos, funcional, refletiva e imperativa) que te permite criar diversos tipos de aplicações.
 
-## Quem usa
+## Quem usa?
 O Python é uma linguagem SUPER-FÁCIL de se aprender e também é utilizada por grandes empresas como:
 - [Globo.com](http://www.globo.com/)
 - [NASA](http://www.nasa.gov/). 
