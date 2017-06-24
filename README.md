@@ -92,5 +92,7 @@ Qualquer sugestão, crie uma Issue dizendo o que deveria mudar, acrescentar (e p
 > Qualquer dúvida sobre o curso, sugestão, reclamação (ou algo do tipo). Só me chamar.
 
 Telegram: @ogabriel
+
 [Facebook](https://www.facebook.com/gkal19)
+
 [gabrielsilva1956@gmail.com](mailto:gabrielsilva1956@gmail.com)
