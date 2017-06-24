@@ -16,6 +16,7 @@ O Python é uma linguagem SUPER-FÁCIL de se aprender e também é utilizada por
 - [NASA](http://www.nasa.gov/). 
 - [Facebook](http://www.facebook.com)
 - [Google](http://www.google.com)
+
 E até mesmo o Elliot de [Mr. Robot](http://www.imdb.com/title/tt4158110/). Sim, se você for notar "A hora das hackeadas" o Python está lá junto com algumas outras técnicas existentes em nosso mundinho.
 
 A Comunidade Brasileira de Python é FANTÁSTICA e é ela também que cresce bastante, despertando o interesse de muitos que desejam se aprofundar na linguagem.
