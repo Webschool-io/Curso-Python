@@ -82,7 +82,7 @@ Qualquer sugestão, crie uma Issue dizendo o que deveria mudar, acrescentar (e p
 	- Gerenciador de pacotes `pip`
 	- Arquivo `__int__.py`
 
-> Só fazendo uma observação, não teremos só isso que foi listado acima não. Teremos muitas outras coisas se tudo der certo.
+> Só fazendo uma observação, no curso vocês não irão aprender só isso que foi listado acima. Teremos muitas outras coisas se tudo der certo.
 
 ## Instrutor
 
