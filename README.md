@@ -41,12 +41,48 @@ Aí você me pergunta...
 
 O curso é dedicado não só para quem tem vontade de aprender Python, como também quem pretende "Chegar Chegando" no Mercado de Trabalho. Vale também citar você aí que talvez tenha desejo de aprender uma nova linguagem de programação.
 
-O curso será prático, ou seja, vamos aprender Python com a Mão na Massa :godmode: :metal: 
+O curso será prático, ou seja, vamos aprender Python com a Mão na Massa :metal: :godmode:  
 
 ## Ementa
 
-Em relação a nossa ementa, estou planejando tudo cuidadosamente.
+> Em relação a nossa ementa, estou planejando tudo cuidadosamente.
 Qualquer alteração será feita aqui neste repositório então PROCURE SEMPRE FICAR INFORMADO.
+Qualquer sugestão, crie uma Issue dizendo o que deveria mudar, acrescentar (e por aí vai).
+
+- Introdução
+	- O que é uma Linguagem de Programação?
+	- O que é o Python?
+	- Instalando o Python
+- Hello, World!
+	- Função `print("")`
+	- Comentários
+	- Variáveis
+	- Booleanos
+- Operadores Aritiméticos
+- Entrada de Dados
+	- Função `input("")`
+- Estruturas Condicionais
+	- `if`, `else`
+	- `elif`
+	- Operadores Lógicos
+		- `and`, `or` e `not`
+- Estruturas de repetição
+	- Range
+	- For
+	- While
+	- Break
+	- Continue
+- Estrutura de dados
+	- Listas
+	- Tuplas
+	- Dicionários
+	- Conjuntos
+- Módulos e Pacotes
+	- Função `import`
+	- Gerenciador de pacotes `pip`
+	- Arquivo `__int__.py`
+
+> Só fazendo uma observação, não teremos só isso que foi listado acima não. Teremos muitas outras coisas se tudo der certo.
 
 ## Instrutor
 
