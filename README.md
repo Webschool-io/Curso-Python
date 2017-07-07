@@ -52,7 +52,9 @@ Qualquer sugestão, crie uma Issue dizendo o que deveria mudar, acrescentar (e p
 - Introdução
 	- O que é uma Linguagem de Programação?
 	- O que é o Python?
-	- Instalando o Python
+	- Quem usa o Python?
+	- Instalando o Python 3 e IDLE
+- Editor de Código
 - Hello, World!
 	- Função `print("")`
 	- Comentários
