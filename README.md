@@ -54,7 +54,7 @@ Qualquer sugestão, crie uma Issue dizendo o que deveria mudar, acrescentar (e p
 	- O que é o Python?
 	- Quem usa o Python?
 	- Instalando o Python 3 e IDLE
-- Editor de Código
+	- Editor de Código
 - Hello, World!
 	- Função `print("")`
 	- Comentários
