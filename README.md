@@ -93,7 +93,7 @@ Qualquer sugestão, crie uma Issue dizendo o que deveria mudar, acrescentar (e p
 
 > Qualquer dúvida sobre o curso, sugestão, reclamação (ou algo do tipo). Só me chamar.
 
-Telegram: @ogabriel
+Telegram: @gkal19
 
 [Facebook](https://www.facebook.com/gkal19)
 
