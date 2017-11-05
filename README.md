@@ -1,6 +1,8 @@
-# Curso-Python
+# Curso de Python
 
-> Curso sobre Python da Webschool
+<div style="text-align:center"><img src ="https://i.imgur.com/XkO7Uqo.jpg" /></div>
+
+> Curso de Python da Webschool.
 
 Você provavelmente já ouviu falar sobre a linguagem Python.
 
@@ -13,7 +15,7 @@ Python é um linguagem dinâmica, interpretada, robusta, multiplataforma e multi
 ## Quem usa?
 O Python é uma linguagem SUPER-FÁCIL de se aprender e também é utilizada por grandes empresas como:
 - [Globo.com](http://www.globo.com/)
-- [NASA](http://www.nasa.gov/). 
+- [NASA](http://www.nasa.gov/)
 - [Facebook](http://www.facebook.com)
 - [Google](http://www.google.com)
 
