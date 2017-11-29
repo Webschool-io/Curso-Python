@@ -47,6 +47,8 @@ O curso será prático, ou seja, vamos aprender Python com a Mão na Massa :meta
 
 ## Ementa
 
+> AVISO: Todos os vídeos serão lançados neste [Canal](https://www.youtube.com/channel/UCw-10KW4Yjra7DdhgaYKXbA).
+
 > Em relação a nossa ementa, estou planejando tudo cuidadosamente.
 Qualquer alteração será feita aqui neste repositório então PROCURE SEMPRE FICAR INFORMADO.
 Qualquer sugestão, crie uma Issue dizendo o que deveria mudar, acrescentar (e por aí vai).
@@ -98,7 +100,5 @@ Qualquer sugestão, crie uma Issue dizendo o que deveria mudar, acrescentar (e p
 Telegram: @gkal19
 
 [Facebook](https://www.facebook.com/gkal19)
-
-[Canal](https://www.youtube.com/channel/UCw-10KW4Yjra7DdhgaYKXbA)
 
 [gabrielsilva1956@gmail.com](mailto:gabrielsilva1956@gmail.com)
