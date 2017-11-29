@@ -99,4 +99,6 @@ Telegram: @gkal19
 
 [Facebook](https://www.facebook.com/gkal19)
 
+[Canal](https://www.youtube.com/channel/UCw-10KW4Yjra7DdhgaYKXbA)
+
 [gabrielsilva1956@gmail.com](mailto:gabrielsilva1956@gmail.com)
